@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="avif_decode_seed_corpus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/third_party/oss-fuzz/projects/libavif/avif_decode_seed_corpus.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
